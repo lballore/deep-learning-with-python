@@ -23,7 +23,7 @@ The exercises in the book are written for `tensorflow 1.*` and `Keras 2.0.8`. Al
 No relevant exercises
 
 ### Chapter 2. - Before we begin: the mathematical building blocks of neural networks
-No relevant exercises
+- 01: a first look at a neural network - [notebook](https://github.com/lucone83/deep-learning-with-python/blob/master/notebooks/chapter_02/01%20-%20A%20first%20look%20at%20a%20neural%20network.ipynb)
 
 ### Chapter 3. - Getting started with neural networks
 - 01: binary classification - [notebook](https://github.com/lucone83/deep-learning-with-python/blob/master/notebooks/chapter_03/01%20-%20Binary%20classifier.ipynb)
