@@ -4,7 +4,7 @@ This repository contains Jupyter notebooks implementing the code samples found i
 ## Disclaimer
 The author [already published notebooks with the exercises in his Github account](https://github.com/fchollet/deep-learning-with-python-notebooks). Those you can find in this repository are made by myself for my own learning, with no intention so steal any intellectual property.
 
-## Requiements
+## Requirements
 - Create a virtual environment with `conda` or `virtualenv`. Recommended `conda` with Python 3.6.
 ```
 conda create --name <your_project> python=3.6
@@ -32,3 +32,6 @@ No relevant exercises
 
 ### Chapter 4. - Fundamentals of machine learning
 - 01: binary classification: mitigate overfitting and underfitting - [notebook](https://github.com/lucone83/deep-learning-with-python/blob/master/notebooks/chapter_04/01%20-%20Binary%20classifier%20-%20mitigate%20overfitting.ipynb)
+
+### Chapter 5. - Deep learning for computer vision
+- 01: introduction to CNN - [notebook](https://github.com/lucone83/deep-learning-with-python/blob/master/notebooks/chapter_05/01%20-%20Introduction%20to%20CNN.ipynb)
