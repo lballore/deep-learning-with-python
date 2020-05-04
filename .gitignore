@@ -1,2 +1,7 @@
+cats_and_dogs*/
+models/
+
+Kaggle*
+
 .ipynb_checkpoints
 .vscode
