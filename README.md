@@ -1,4 +1,4 @@
-# Exercises for the book "Deep Learning with Python" by François Chollet.
+# TensorFlow 2.* exercises for the book "Deep Learning with Python" by François Chollet.
 This repository contains Jupyter notebooks implementing the code samples found in the book [Deep Learning with Python (Manning Pubblications)](https://www.manning.com/books/deep-learning-with-python?a_aid=keras&a_bid=76564dff) by François Chollet, gathered by chapter.
 
 ## Disclaimer
@@ -35,3 +35,6 @@ No relevant exercises
 
 ### Chapter 5. - Deep learning for computer vision
 - 01: introduction to CNN - [notebook](https://github.com/lucone83/deep-learning-with-python/blob/master/notebooks/chapter_05/01%20-%20Introduction%20to%20CNN.ipynb)
+- 02: using CNNs with small datasets - [notebook](https://github.com/lucone83/deep-learning-with-python/blob/master/notebooks/chapter_05/02%20-%20Using%20convnets%20with%20small%20datasets.ipynb)
+- 03: using a pretrained CNN - [notebook](https://github.com/lucone83/deep-learning-with-python/blob/master/notebooks/chapter_05/03%20-%20Using%20a%20pretrained%20CNN.ipynb)
+- 04: visualizing what a CNN learn - [notebook](https://github.com/lucone83/deep-learning-with-python/blob/master/notebooks/chapter_05/04%20-%20Visualizing%20what%20CNN%20learn.ipynb)
