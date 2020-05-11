@@ -38,3 +38,6 @@ No relevant exercises
 - 02: using CNNs with small datasets - [notebook](https://github.com/lucone83/deep-learning-with-python/blob/master/notebooks/chapter_05/02%20-%20Using%20convnets%20with%20small%20datasets.ipynb)
 - 03: using a pretrained CNN - [notebook](https://github.com/lucone83/deep-learning-with-python/blob/master/notebooks/chapter_05/03%20-%20Using%20a%20pretrained%20CNN.ipynb)
 - 04: visualizing what a CNN learn - [notebook](https://github.com/lucone83/deep-learning-with-python/blob/master/notebooks/chapter_05/04%20-%20Visualizing%20what%20CNN%20learn.ipynb)
+
+### Chapter 6. - Deep learning for text and sequences
+- 01: one-hot encoding of words or characters - [notebook](https://github.com/lucone83/deep-learning-with-python/blob/master/notebooks/chapter_06/01%20-%20One-hot%20encoding%20of%20words%20or%20characters.ipynb)
