@@ -3,5 +3,8 @@ models/
 
 Kaggle*
 
+aclImdb*
+glove*6B*
+
 .ipynb_checkpoints
 .vscode

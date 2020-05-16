@@ -41,3 +41,4 @@ No relevant exercises
 
 ### Chapter 6. - Deep learning for text and sequences
 - 01: one-hot encoding of words or characters - [notebook](https://github.com/lucone83/deep-learning-with-python/blob/master/notebooks/chapter_06/01%20-%20One-hot%20encoding%20of%20words%20or%20characters.ipynb)
+- 02: using word embeddings - [notebook](https://github.com/lucone83/deep-learning-with-python/blob/master/notebooks/chapter_06/02%20-%20Using%20word%20embeddings.ipynb)
