@@ -1,10 +1,13 @@
-cats_and_dogs*/
+# Models
 models/
 
-Kaggle*
-
+# Datasets
+cats_and_dogs*/
 aclImdb*
 glove*6B*
+jena*
+Kaggle*
 
+# IDE and tools
 .ipynb_checkpoints
 .vscode
