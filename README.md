@@ -45,3 +45,6 @@ No relevant exercises
 - 03: understanding RNNs - [notebook](https://github.com/lucone83/deep-learning-with-python/blob/master/notebooks/chapter_06/03%20-%20Understanding%20RNNs.ipynb)
 - 04: advanced use of RNNs - [notebook](https://github.com/lucone83/deep-learning-with-python/blob/master/notebooks/chapter_06/04%20-%20Advanced%20use%20of%20RNNs.ipynb)
 - 05: sequence processing with convnets - [notebook](https://github.com/lucone83/deep-learning-with-python/blob/master/notebooks/chapter_06/05%20-%20Sequence%20processing%20with%20convnets.ipynb)
+
+### Chapter 7. - Advanced deep-learning best practices
+- 01: the Keras functional API - [notebook](https://github.com/lucone83/deep-learning-with-python/blob/master/notebooks/chapter_07/01%20-%20The%20Keras%20functional%20API.ipynb)
