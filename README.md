@@ -48,3 +48,6 @@ No relevant exercises
 
 ### Chapter 7. - Advanced deep-learning best practices
 - 01: the Keras functional API - [notebook](https://github.com/lucone83/deep-learning-with-python/blob/master/notebooks/chapter_07/01%20-%20The%20Keras%20functional%20API.ipynb)
+
+### Chapter 8. - Generative deep learning
+- 01: text generation with LSTM - [notebook](https://github.com/lucone83/deep-learning-with-python/blob/master/notebooks/chapter_08/01%20-%20Text%20generation%20with%20LSTM.ipynb)
