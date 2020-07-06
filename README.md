@@ -52,3 +52,4 @@ No relevant exercises
 ### Chapter 8. - Generative deep learning
 - 01: text generation with LSTM - [notebook](https://github.com/lucone83/deep-learning-with-python/blob/master/notebooks/chapter_08/01%20-%20Text%20generation%20with%20LSTM.ipynb)
 - 02: Deep Dream - [notebook](https://github.com/lucone83/deep-learning-with-python/blob/master/notebooks/chapter_08/02%20-%20Deep%20Dream.ipynb)
+- 03: neural style transfer - [notebook](https://github.com/lucone83/deep-learning-with-python/blob/master/notebooks/chapter_08/03%20-%20Neural%20style%20transfer.ipynb)
