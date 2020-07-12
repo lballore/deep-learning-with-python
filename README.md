@@ -1,8 +1,8 @@
 # TensorFlow 2.* exercises for the book "Deep Learning with Python" by François Chollet.
-This repository contains Jupyter notebooks implementing the code samples found in the book [Deep Learning with Python (Manning Pubblications)](https://www.manning.com/books/deep-learning-with-python?a_aid=keras&a_bid=76564dff) by François Chollet, gathered by chapter.
+This repository contains Jupyter notebooks implementing the code samples found in the book [Deep Learning with Python (Manning Pubblications)](https://www.manning.com/books/deep-learning-with-python?a_aid=keras&a_bid=76564dff) by [François Chollet](https://github.com/fchollet), gathered by chapter.
 
 ## Disclaimer
-The author [already published notebooks with the exercises in his Github account](https://github.com/fchollet/deep-learning-with-python-notebooks). Those you can find in this repository are made by myself for my own learning, with no intention so steal any intellectual property.
+The author [already published notebooks with the exercises in his Github account](https://github.com/fchollet/deep-learning-with-python-notebooks). Those you can find in this repository are made by myself for my own learning, with no intention so steal any intellectual property. **Exercises that worked flawlessly in TF 2 have been simply copied**.
 
 ## Requirements
 - Create a virtual environment with `conda` or `virtualenv`. Recommended `conda` with Python 3.6.
@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ```
 
 ## Contents
-The exercises in the book are written for `tensorflow 1.*` and `Keras 2.0.8`. All the code in this repo have been rewritten to work with `tensorflow 2.1.*` and the corresponding Keras version `2.2.4-tf`.
+The exercises in the book are written for `tensorflow 1.*` and `Keras 2.0.8`. All the code in this repo have been rewritten to work with `tensorflow 2.2.*` and the corresponding Keras version `2.2.4-tf`.
 
 ---
 
